@@ -60,6 +60,7 @@
     <Compile Include="Assets\MenuManager.cs" />
     <Compile Include="Assets\Script\LocationDiscovery.cs" />
     <Compile Include="Assets\Script\Weapon.cs" />
+    <Compile Include="Assets\Script\ChoiceHandler.cs" />
     <Compile Include="Assets\Script\CharacterStats.cs" />
     <Compile Include="Assets\Script\Inventory Start.cs" />
     <Compile Include="Assets\Script\transition.cs" />
